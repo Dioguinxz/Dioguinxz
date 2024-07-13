@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Diogo</h1>
-<h3 align="left">Software Developer | Back and Front-end</h3>
+<h3 align="left">Software Developer | FullStack</h3>
 
 ---
 
